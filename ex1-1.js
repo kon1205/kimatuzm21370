@@ -6,4 +6,5 @@ function imgchange2(){
 function txtchange1() {
 document.getElementById('txt1').innerHTML = '正解は、ベイマックス！';}
 
-
+function txtchange3() {
+document.getElementById('txt3').innerHTML = '正解は、ケアロボット！';}
